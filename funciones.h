@@ -31,7 +31,7 @@ int letraONum(string& cadena)
         int tipo = tipoF(cadena);
         return tipo;
     }
-    else if(cadena == "if" || cadena == "while" || cadena == "return")
+    else if(cadena == "if" || cadena == "while" || cadena == "return" || cadena == "else")
     {
         int tipo = reservadas(cadena);
         return tipo;

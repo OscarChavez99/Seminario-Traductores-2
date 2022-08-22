@@ -7,7 +7,7 @@ int compararPunto(string& cadena);
 
 int main()
 {
-    string cadena1 = "hola 22 2.2 CADENA int + * < >= | || && ! == ; , ( ) { } = if $";
+    string cadena1 = "hola 22 2.2 CADENA int + * < >= | || && ! == ; , ( ) { } = if else $";
     string cadena2 = "";
     int largo1 = cadena1.length(), largo2;
     bool especial = false; 
