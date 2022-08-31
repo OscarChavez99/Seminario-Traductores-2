@@ -9,4 +9,4 @@ En este ejemplo utilizamos la entrada "hola + mundo"
 
 En este segundo ejemplo la entrada será: "a + b + c + d + e + f", únicamente es necesario comentar la cadena que se utilizó en el ejemplo anterior y elegir la tabla que contiene la segunda gramática (tabla2)
 
-![image](https://user-images.githubusercontent.com/80979314/187586754-8a2e1850-5d58-48a9-ad7e-dbc8b2040491.png)
+![image](https://user-images.githubusercontent.com/80979314/187588375-62b0c8ea-5c39-4e4a-9faf-adfd723fb984.png)
