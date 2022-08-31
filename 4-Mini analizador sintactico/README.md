@@ -5,7 +5,7 @@ Cada token viene diferenciado por un tipo, los cuales se iteran dentro de una ta
 El programa es capaz de apilar cada token junto con su salida y desapilarlo cuando la entrada sea '$'
 En este ejemplo utilizamos la entrada "hola + mundo"
 
-![image](https://user-images.githubusercontent.com/80979314/187587920-f0a83595-988c-4ca3-b007-6d0a8bb00bf8.png)
+![image](https://user-images.githubusercontent.com/80979314/187588035-829b1b9f-2636-4a8a-b3a2-33169828ad41.png)
 
 En este segundo ejemplo la entrada será: "a + b + c + d + e + f", únicamente es necesario comentar la cadena que se utilizó en el ejemplo anterior y elegir la tabla que contiene la segunda gramática (tabla2)
 
