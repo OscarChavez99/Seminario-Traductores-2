@@ -1,4 +1,4 @@
-# Mini analizador sintactico c++
+# Mini analizador sintáctico c++
 
 Este proyecto es capaz de validar si una cadena de caracteres (cadena1 en la línea 45 ó 46 del código) es sintácticamente correcta, ya que separa la cadena por tokens.
 Cada token viene diferenciado por un tipo, los cuales se iteran dentro de una tabla de reglas gramaticales (función: tabla1 dentro de la cabecera tabla.h) <br>
