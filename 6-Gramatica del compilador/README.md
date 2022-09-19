@@ -12,5 +12,5 @@ A diferencia de la etapa anterior, ésta será capaz de actuar basándose en má
 ![image](https://user-images.githubusercontent.com/80979314/190949509-b1d8a12b-4a7b-4dfa-aae4-7f8f66b9163a.png) <br>
 
 ## Mostramos su salida y observamos que es la misma que en el ejemplo
-![image](https://user-images.githubusercontent.com/80979314/190949636-32d6dac2-1832-4fca-ac6a-6c89ef08c674.png) <br>
-
+![image](https://user-images.githubusercontent.com/80979314/190949636-32d6dac2-1832-4fca-ac6a-6c89ef08c674.png)
+![image](https://user-images.githubusercontent.com/80979314/190949709-2a0d0bb6-8e91-4259-bc7b-0af4b6abb540.png) <br>
