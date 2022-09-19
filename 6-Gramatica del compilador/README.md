@@ -8,8 +8,9 @@ A diferencia de la etapa anterior, ésta será capaz de actuar basándose en má
 - Salida esperada: <br>
 ![image](https://user-images.githubusercontent.com/80979314/190949284-b5f6fbca-7b27-4f8a-ace7-d4b1933de756.png)
 
-Mostramos la misma entrada en el lenguaje C++: <br>
+- Mostramos la misma entrada en el lenguaje C++: <br>
+![image](https://user-images.githubusercontent.com/80979314/190949509-b1d8a12b-4a7b-4dfa-aae4-7f8f66b9163a.png) <br>
 
-<br>
+## Mostramos su salida y observamos que es la misma que en el ejemplo
+![image](https://user-images.githubusercontent.com/80979314/190949636-32d6dac2-1832-4fca-ac6a-6c89ef08c674.png) <br>
 
-Mostramos su salida y observamos que es la misma que en el ejemplo
