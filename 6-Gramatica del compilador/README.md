@@ -13,4 +13,4 @@ A diferencia de la etapa anterior, ésta será capaz de actuar basándose en má
 
 ## Mostramos su salida y observamos que es la misma que en el ejemplo
 ![image](https://user-images.githubusercontent.com/80979314/190949636-32d6dac2-1832-4fca-ac6a-6c89ef08c674.png)
-![image](https://user-images.githubusercontent.com/80979314/190949709-2a0d0bb6-8e91-4259-bc7b-0af4b6abb540.png) <br>
+![image](https://user-images.githubusercontent.com/80979314/190949786-09b0908f-f590-4457-a9bb-f49008b49395.png) <br>
