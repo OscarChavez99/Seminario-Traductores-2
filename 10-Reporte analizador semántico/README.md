@@ -7,7 +7,6 @@
   ![image](https://user-images.githubusercontent.com/80979314/201779721-f5d66618-f98d-4cef-972e-33d370fda456.png)
 
 - Entrada #1:
-
   ![image](https://user-images.githubusercontent.com/80979314/201779950-80423c3b-e50d-4140-acfb-93f20726abf4.png)
 
 - Observamos el análisis léxico
