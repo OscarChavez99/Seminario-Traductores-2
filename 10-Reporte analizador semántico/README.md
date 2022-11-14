@@ -21,7 +21,7 @@ Por lo tanto está correcto <br>
 - Entrada #2:
   ![image](https://user-images.githubusercontent.com/80979314/201780393-487d8948-8e57-441f-aada-b037cba6b716.png)
 
-- Observamos el análisis léxico
+- Observamos el análisis léxico <br>
   ![image](https://user-images.githubusercontent.com/80979314/201780631-dc4fd649-4277-44a9-9746-908f5c4ebe74.png) <br>
   ![image](https://user-images.githubusercontent.com/80979314/201780668-61b40f16-fb32-4123-8d0f-cbb183e465eb.png)
 
