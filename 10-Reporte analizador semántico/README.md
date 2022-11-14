@@ -18,3 +18,15 @@
 
 Podemos notar que el programa tiene problemas con la asignación de tipo de datos y con llamar a una función sin definirse. <br>
 Por lo tanto está correcto <br>
+
+- Entrada #2:
+  ![image](https://user-images.githubusercontent.com/80979314/201780393-487d8948-8e57-441f-aada-b037cba6b716.png)
+
+- Observamos el análisis léxico
+  ![image](https://user-images.githubusercontent.com/80979314/201780631-dc4fd649-4277-44a9-9746-908f5c4ebe74.png)
+  ![image](https://user-images.githubusercontent.com/80979314/201780668-61b40f16-fb32-4123-8d0f-cbb183e465eb.png)
+
+- Observamos los errores en la consola:
+  ![image](https://user-images.githubusercontent.com/80979314/201780712-2bec7d3b-1f81-4b16-ac5e-65063100fe6b.png)
+
+Podemos notar que nuevamente el programa es capaz de identificar los errores
