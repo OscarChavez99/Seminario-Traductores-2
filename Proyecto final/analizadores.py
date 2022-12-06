@@ -1802,8 +1802,8 @@ cad = " int sum(int a){\
     int main(){\
     int x;\
     int z;\
-    x = 7;\
-    z = 2;\
+    x = 20;\
+    z = 12;\
     z = sum(x);\
     print(z)\
     return z;\

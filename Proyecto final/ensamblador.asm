@@ -6,7 +6,7 @@ section .text
 
 extern printf
 global sum
-global main
+, main
 sum:
  	PUSH rbp 
 	MOV rbp, rsp 
@@ -25,8 +25,8 @@ main:
  	PUSH rbp 
 	MOV rbp, rsp 
 	SUB rsp, 48 
-		MOV WORD [rbp -4] , 7
-	MOV WORD [rbp -8] , 2
+		MOV WORD [rbp -4] , 20
+	MOV WORD [rbp -8] , 12
 	MOV rax, QWORD [rbp -4]
 	MOV rdi, rax 
 
@@ -46,5 +46,6 @@ main:
 	ADD rsp, 48 
 	MOV rsp, rbp 
 	MOV rax, 60 
-	MOV rdi, 0 
-	syscall
+	MOV rdi, 0 
+	syscall 
+	
