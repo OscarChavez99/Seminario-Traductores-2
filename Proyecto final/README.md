@@ -2,6 +2,7 @@
 
 ## Video de explicación en el siguiente link:
 
+https://drive.google.com/drive/folders/1gT_I_VaodHz2mhen-HWkgL5f83klHhwm?usp=sharing
 
 ## Ingresamos la siguiente entrada:
 
