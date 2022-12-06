@@ -1,5 +1,8 @@
 # Proyecto Final
 
+## Video de explicación en el siguiente link:
+
+
 ## Ingresamos la siguiente entrada:
 
 ![image](https://user-images.githubusercontent.com/80979314/205792810-841baab8-5d68-4b16-8fd0-83fcc34c3021.png)
@@ -52,4 +55,4 @@
 
 ## Presionamos enter y podemos observar que la salida es correcta
 
-![image](https://user-images.githubusercontent.com/80979314/205794084-9eba609b-20b1-4357-9835-bcb179a4322d.png)
+![image](https://user-images.githubusercontent.com/80979314/205794266-bda7a46a-b18f-43fa-8da8-7bb3b8ec947d.png)
