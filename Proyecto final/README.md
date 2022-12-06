@@ -46,5 +46,10 @@
 
 ![image](https://user-images.githubusercontent.com/80979314/205793751-869deafb-cf8f-418a-ba22-f0d15fb1da6e.png) <br>
 
-## Ingresamos los siguientes comandos (puedes encontrarlos en la carpeta comandos linux
+## Ingresamos los siguientes comandos (puedes encontrarlos en la carpeta "Comandos linux" de este proyecto)
 
+![image](https://user-images.githubusercontent.com/80979314/205793997-1c922082-9b30-47b1-a28d-a572903da2d4.png) <br>
+
+## Presionamos enter y podemos observar que la salida es correcta
+
+![image](https://user-images.githubusercontent.com/80979314/205794084-9eba609b-20b1-4357-9835-bcb179a4322d.png)
